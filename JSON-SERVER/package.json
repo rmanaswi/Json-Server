@@ -1,0 +1,16 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "REST API ",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "json:server":"json-server --watch db.json",
+    "json:server:remote" : "json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "author": "Manaswi Reddy",
+  "license": "ISC"
+}

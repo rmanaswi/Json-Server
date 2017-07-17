@@ -1,0 +1,61 @@
+{
+  "users":[
+    {
+      "id":"1",
+      "firstName":"John",
+      "lastName":"Doe",
+      "email":"john@gmail.com",
+      "age":34,
+      "componyId":"1"
+    },
+    {
+      "id":"2",
+      "firstName":"Sara",
+      "lastName":"David",
+      "email":"aara@gmail.com",
+      "age":44,
+      "componyId":"4"
+    },
+    {
+      "id":"3",
+      "firstName":"Joe",
+      "lastName":"David",
+      "email":"joe@gmail.com",
+      "age":36,
+      "componyId":"2"
+    },
+    {
+      "id":"4",
+      "firstName":"Sana",
+      "lastName":"Patel",
+      "email":"sana@gmail.com",
+      "age":30,
+      "componyId":"4"
+    }
+  ],
+  "companies":[
+    {
+      "id":"1",
+      "name":"Apple",
+      "desciption":"Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services. The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, and the Apple TV digital media player. "
+
+
+    },
+    {
+      "id":"2",
+      "name":"Microsoft",
+      "description":"Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and services."
+    },
+    {
+      "id":"3",
+      "name":"Google",
+      "description":"Google Search, commonly referred to as Google Web Search or simply Google, is a web search engine developed by Google. It is the most-used search engine on the World Wide Web, handling more than three billion searches each day."
+    },
+    {
+      "id":"4",
+      "name":"Facebook",
+      "description":"Facebook is an American for-profit corporation and an online social media and social networking service based in Menlo Park, California."
+    }
+
+  ]
+}
